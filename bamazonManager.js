@@ -48,7 +48,7 @@ function menuOptions() {
     inquirer.prompt({
         name: "options",
         type: "list",
-        message: "What would you like to view today?",
+        message: "\n What would you like to view today?",
         choices: ["View Products for Sale", "View Low Inventory", "Add to Inventory", "Add New Product", "Exit"]
 
     }).then((response) => {

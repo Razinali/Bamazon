@@ -24,7 +24,7 @@
 
 ## Functionality.
     What Bamazon does and what to input
----
+
 ## __Customer View.__
 
 From the command line, run ``node bamazonCustomer.js``
@@ -47,12 +47,12 @@ The user is presented with the following options:
 
 | Operation | Result |
 | :-----:   | :---:  |
-|View Products for Sale|![manager_result1](./img/manager1.gif)
-|View Low Inventory| ![manager_result2](./img/manager2.gif)
-|Add to existing product| ![manager_result3](./img/manager3.gif)
-|Add new product| ![manager_result4](./img/manager4.gif)|
+|View Products for Sale|![manager_result1](./images/manager1.gif)
+|View Low Inventory| ![manager_result2](./images/manager2.gif)
+|Add to existing product| ![manager_result3](./images/manager3.gif)
+|Add new product| ![manager_result4](./images/manager4.gif)|
 
----
+
 
 ##Technologies Used:
 * MySQL Workbench
