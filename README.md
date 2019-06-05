@@ -54,7 +54,7 @@ The user is presented with the following options:
 
 
 
-##Technologies Used:
+## Technologies Used:
 * MySQL Workbench
 * nodeJS
 
